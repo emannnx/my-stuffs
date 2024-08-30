@@ -1,0 +1,207 @@
+.mainContainer {
+    width: 100%;
+    height: 100vh;
+    background-image: url(header-photo-fe7e49a42c51e2542d0dce2e6795d4f2\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .headerContainer {
+    width: 100%;
+    height: 90px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .headerWrapper {
+    width: 70%;
+    height: 100%;
+    /* background-color: gold; */
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .left p {
+    color: white;
+  }
+  
+  .left img {
+    height: 50px;
+  }
+  
+  .mainwrapper {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0, 0.4);
+  }
+  
+  .right {
+    display: flex;
+    color: white;
+    align-items: center;
+    font-size: 19px;
+    gap: 30px;
+  }
+  
+  * {
+    margin: 0;
+  }
+  
+  nav {
+    font-weight: 700;
+  }
+  
+  .right button {
+    width: 120px;
+    height: 50px;
+    background-color: #ffd600;
+    color: black;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+  }
+ 
+  
+  .heroContainer{
+    width: 70%;
+    height: 100%;
+    /* background-color: red; */
+    margin-left: 15%;
+}
+  .heroWrapper{ width: 70%;
+    height: 100%;
+    /* background-color: gold; */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+  }
+  .textss{
+    font-size: 52px;
+    justify-content: center;
+    padding-top: 210px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.texts{
+    font-size: 52px;
+    /* justify-content: center; */
+    /* padding-top: 280px; */
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.textssss{
+    color: #FFD600;
+    font-size: 54px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.lasttexts{
+    padding-top: 35px;
+    color: white;
+    display: flex;
+    font-size: 12px;
+}
+
+.Co{
+    color: white;
+    display: flex;
+    font-size: 12px;
+}
+.cc{padding-left: 30px;}
+.bb{
+    width: 150px;
+    height: 70px;
+    background-color: #FFD600;
+    border: none;
+    font-size: 19px;
+}
+.bbb{
+    padding-top: 30px;
+}
+
+.nextcontainer{
+    width: 50%;
+    height: 80%;
+    margin-left: 25%;
+}
+.colorimage{
+    height: 250px;
+    width: 250px;
+    background-color: #FFD600;
+    margin-top: 100px;
+}
+.firsttexttt{
+    
+    position: relative;
+    width: 70%;
+    top: -220px;
+    left: 50px;
+    
+}
+.hh{
+    font-size: bold;
+    font-size: 34px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.pp{
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.cccc{
+  width: 240px;
+  height: 200px;
+  /* padding-bottom: 320px; */
+}
+.imggg{ 
+  display: flex
+  padd
+}
+.class{
+  font-size: 35px;
+  position: relative;
+  width: 70%;
+  top: -220px;
+  left: 50px;
+}
+
+.sssssss{
+  height: 250px;
+  width: 250px;
+  background-color: #FFD600;
+  margin-left: 550px;
+  margin-top: 100px;
+}
+.eeee{
+  padding-top: 70px;
+  font-size: 28px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.ffff{
+   font-size: bold;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.lastparts{
+  width: 100%;
+  height: 70%;
+  background: #262522;
+  margin-top: 700px;
+}
